@@ -33,9 +33,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/wso2-extensions/identity-migration-resources.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/identity-migration-resources.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2-extensions/identity-migration-resources.git</connection>
+        <url>https://github.com/wso2-extensions/apim-identity-migration-resources.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-extensions/apim-identity-migration-resources.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2-extensions/apim-identity-migration-resources.git</connection>
         <tag>HEAD</tag>
     </scm>
 
